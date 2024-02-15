@@ -1,0 +1,14 @@
+2. feladat
+A naplóban 139 bejegyzés van.
+3. feladat
+Az igazolt hiányzások száma 788, az igazolatlanoké 18 óra.
+5. feladat
+A hónap sorszáma=2
+A nap sorszáma=3
+Azon a napon szombat volt.
+6. feladat
+A nap neve=szerda
+Az óra sorszáma=3
+Ekkor összesen 49 óra hiányzás történt.
+7. feladat
+A legtöbbet hiányzó tanulók: Kivi Adrienn Jujuba Ibolya
